@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Amira_Cuisin.iml" filepath="$PROJECT_DIR$/.idea/Amira_Cuisin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Amira_Cuisine.iml" filepath="$PROJECT_DIR$/.idea/modules/Amira_Cuisine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Amira_Cuisine.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Amira_Cuisine.app.iml" />
     </modules>
   </component>
 </project>
